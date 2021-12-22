@@ -10,6 +10,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/durvesh-kumar-pal/)
 - 😄 Pronouns: He/Him
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurveshKumarPal&count_private=true
+
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">
 
 ![snake gif](https://github.com/DurveshKumarPal/DurveshKumarPal/blob/output/github-contribution-grid-snake.gif)
