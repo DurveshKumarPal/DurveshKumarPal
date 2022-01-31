@@ -10,9 +10,17 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/durvesh-kumar-pal/)
 - 😄 Pronouns: He/Him
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">
+<p align="center"> Yo! Look at the graph of my contributions!<img src= "file:///E:/The-trouble-with-graphs.jpg">
 
-![snake gif](https://github.com/DurveshKumarPal/DurveshKumarPal/blob/output/github-contribution-grid-snake.gif)
+</br>
+
+<p align="center">
+<a href="https://https://github.com/DurveshKumarPal/DurveshKumarPal">
+ <img src="https://activity-graph.herokuapp.com/graph?username=DurveshKumarPal&theme=Default&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
+</br>
 
 ## Socials
 
