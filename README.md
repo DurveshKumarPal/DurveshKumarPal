@@ -21,6 +21,12 @@
 </p>
 
 </br>
+<h2>Recent Blog</h2>
+
+[🏡 Blog](https://durveshkumarpal.hashnode.dev/)
+
+[First Blog](https://durveshkumarpal.hashnode.dev/my-first-blog-1)
+
 
 ## Socials
 
