@@ -1,6 +1,12 @@
-# Hi there! I'M Rs_Durvesh 👋
 
-![scrnli_9_26_2021_3-52-20 PM](https://user-images.githubusercontent.com/76864632/134804662-b9f74303-03d2-4ee7-bd80-46e877ea4cfa.png)
+<p align = "center"> <h1>Hey there! I'M Rs_Durvesh 👋 </h1></p>
+
+<p align="center">
+
+<img src ="https://user-images.githubusercontent.com/76864632/181837256-2f84ab46-0361-4ffc-9618-6b5b8e75917e.gif">
+
+</p>
+
 
 ## About me
 
